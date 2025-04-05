@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:blanchedalmond;
     /*
     margin: 0;
     padding: 0;
@@ -17,3 +17,14 @@ body {
     /*font-weight: 400;*/
     font-style: normal;
 }
+
+h1 {
+    color:chartreuse;
+    font-size:medium;
+}
+
+/*.JanaCSS {
+    font-family: "Bungee Tint", sans-serif;
+    font-style: normal;
+
+} */
